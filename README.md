@@ -2,7 +2,7 @@
 ## <u>Group Members<u>
 ### Bertram Chabu - 166458
 ### Justin Macharia - 158787
-
+# <u>Preview<u>
 This is a simple Python-based object-oriented Student Management System. It allows you to add, update, view, and remove students, as well as list all students.
 
 ## Features
